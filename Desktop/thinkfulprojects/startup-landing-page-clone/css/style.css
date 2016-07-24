@@ -58,3 +58,16 @@ button {
 	margin: auto;
 	color: blue;
 }
+.devices .cases{
+	box-sizing: border-box;
+	width: 33.3333333%;
+	display: inline-block;
+	/*styles to assist with debugging*/
+	border: 1px solid black;
+	height: 4em;
+}
+.top-navigation {
+	position: fixed;
+	width: 100%;
+	z-index: 9999;-
+}
